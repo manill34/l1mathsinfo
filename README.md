@@ -4,7 +4,6 @@
 
 Ce document sert à la fois de `README.md` pour le projet et de brouillon principal pour le **Rapport** et la **Soutenance**, conformément au PDF d'évaluation (`projet.pdf`).
 
-*(Manil, fais une capture d'écran de ton application et remplace ce lien)*
 ![Aperçu de ChessAI](logo.png)
 
 ---
